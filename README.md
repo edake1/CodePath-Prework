@@ -22,12 +22,16 @@ Required Features
 Optional Features
 
 - [x] 1. User can tap a button to change the color of the background view
-        - User can toggle switch to change background color
-        - Reset button to reset color to default color
+
+        - [x] User can toggle switch to change background color
+        
+        - [x] Reset button to reset color to default color
         
 - [x] 2. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
-        - Added two more text fields (major, and graduation year)
-        - Changed labels (first -> Freshman, Second -> Sophomore, etc)
+
+        - [x] Added two more text fields (major, and graduation year)
+        
+        - [x] Changed labels (first -> Freshman, Second -> Sophomore, etc)
         
 - [x] 3. Any stylistic changes that are not default options (Comment this here) 
         - Added background image 
