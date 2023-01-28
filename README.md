@@ -34,7 +34,14 @@ Optional Features
         - [x] Changed labels (first -> Freshman, Second -> Sophomore, etc)
         
 - [x] 3. Any stylistic changes that are not default options (Comment this here) 
-        - Added background image 
-        - Clear button shows while editting 
-        - Changed default text field color (black to blue)
+
+          - [x] User can toggle switch to change background color
+  
+          - [x] Reset button to reset color to default colorAdded background image 
+  
+          - [x] Reset button to reset color to default color
+          
+          - [x] Clear button shows while editting 
+          
+          - [x] Changed default text field color (black to blue)
 
