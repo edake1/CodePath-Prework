@@ -6,9 +6,9 @@ App Walk-though
 
 (links below)
 
-https://i.imgur.com/Y3IFJVC.gifv (not previewing but link works)
+https://i.imgur.com/Y3IFJVC.gifv (not previewing but link works. Gif size is about 400MB (too large) so that may be the reason)
 
-https://i.imgur.com/Y3IFJVC.gif
+https://i.imgur.com/Y3IFJVC.gif  (not previewing but link works. Gif size is about 400MB (too large) so that may be the reason)
 
 ![](https://i.imgur.com/Y3IFJVC.gif)
 
