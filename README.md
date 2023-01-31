@@ -4,9 +4,26 @@ CodePath Prework Project - IOS App
 
 App Walk-though
 
-![](https://i.imgur.com/Y3IFJVC.gifv)
+(links below)
+
+https://i.imgur.com/Y3IFJVC.gifv (not previewing but link works)
+
+https://i.imgur.com/Y3IFJVC.gif
+
 ![](https://i.imgur.com/Y3IFJVC.gif)
+
 ![](https://i.imgur.com/Y3IFJVC.gif)
+
+<img width="461" alt="image" src="https://user-images.githubusercontent.com/74028493/215680454-21a4e659-96eb-4898-9ee8-bbffd78ead57.png">
+<img width="458" alt="image" src="https://user-images.githubusercontent.com/74028493/215680609-d0c5252b-e35e-467a-9e96-e0bfa9a4b8b1.png">
+<img width="460" alt="image" src="https://user-images.githubusercontent.com/74028493/215680910-91184270-47e9-40a2-b870-45ab23d6e482.png">
+
+Toggle Background Color 
+
+<img width="448" alt="image" src="https://user-images.githubusercontent.com/74028493/215680971-5fd0ee80-e519-4d7a-a1d8-d09ba66584e6.png">
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/74028493/215681084-61fb26e0-4ef9-4e75-bfae-cabc27567fff.png">
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/74028493/215681162-a98ed6c4-8cd1-43d9-b7ef-1aac44ebd553.png">
+
 
 Required Features
 
