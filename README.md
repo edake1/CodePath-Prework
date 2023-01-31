@@ -5,6 +5,7 @@ CodePath Prework Project - IOS App
 App Walk-though
 
 ![](https://i.imgur.com/Y3IFJVC.gifv)
+![](https://i.imgur.com/Y3IFJVC.gif)
 
 Required Features
 
