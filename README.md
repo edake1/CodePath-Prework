@@ -6,6 +6,7 @@ App Walk-though
 
 ![](https://i.imgur.com/Y3IFJVC.gifv)
 ![](https://i.imgur.com/Y3IFJVC.gif)
+![](https://i.imgur.com/Y3IFJVC.gif)
 
 Required Features
 
